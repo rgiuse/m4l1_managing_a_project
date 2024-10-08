@@ -6,12 +6,11 @@ This lab is in the last module (Module 4, Lab 1) of the Meta Coursera course 'Ve
 The original link in the Coursera course that is not working: [class repo](https://github.com/Meta-Front-End-Developer-PC/m4l1_managing_a_project)
 
 #### This course is part of the following professional certificates:
-Meta Front-End Developer Professional Certificate
-Meta Back-End Developer Professional Certificate
-Meta Database Engineer Professional Certificate
-Meta iOS Developer Professional Certificate
-Meta Android Developer Professional Certificate
+- Meta Front-End Developer Professional Certificate
+- Meta Back-End Developer Professional Certificate
+- Meta Database Engineer Professional Certificate
+- Meta iOS Developer Professional Certificate
+- Meta Android Developer Professional Certificate
 
 #### Keywords:
-Meta-Front-End-Developer-PC
-m4l1_managing_a_project
+Meta-Front-End-Developer-PC, m4l1_managing_a_project
